@@ -1,2 +1,2 @@
 # AMCC_Desktop
-pelatihan awal Desktop
+This repository for my desktop programing
